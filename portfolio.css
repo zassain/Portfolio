@@ -1,7 +1,6 @@
 
 .webpage-body {
   margin: auto 10%;
-  font-size: 100%;
 }
 
 h1 {
@@ -196,12 +195,21 @@ background-color: rgba(36, 196, 196, 1);
   border-width: 2px;
 }
 
-.Summary-text {
-  /* position: ;
-
-  margin-top: -21vw; */
+.Sumary {
+  font-size: 15px;
 }
 
+.Education {
+  font-size: 1rem;
+}
+
+.Professional_Experience {
+  font-size: 100%;
+}
+
+.Professional {
+  font-size: 1.2vw;
+}
 
 
 
