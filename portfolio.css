@@ -1,0 +1,220 @@
+
+body {
+  font-size: 100%;
+}
+
+
+.webpage-body {
+  margin: auto 10%;
+
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+
+p {
+  font-size: 1rem;
+  color: rgb(116, 116, 116);
+}
+
+/* Navbar */
+
+.navbar {
+
+}
+
+.bi-house {
+  font-size: 2rem;
+  color: rgba(12, 235, 235, 1);
+}
+
+.bi-house:hover {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.bi-house:visited {
+  color: rgba(36, 196, 196, 1);
+}
+
+.text-info {
+  color: pink;
+}
+
+
+li {
+margin-left: auto;
+}
+
+
+.nav-contact-img {
+  font-size: 1.5rem;
+  color: rgba(0, 0, 0, 0.5);
+  padding: 0.5rem;
+}
+
+
+.nav-contact-img:hover {
+  color: rgba(36, 196, 196, 1);
+}
+
+
+
+/* CONTACT */
+
+.contact-text {
+  text-align: center;
+  color: rgb(68, 68, 68);
+  margin: 2rem auto;
+}
+
+/* hr */
+
+.resume-hr {
+  width: 5%;
+  border-style: solid;
+  border-color: rgba(12, 235, 235, 1);
+  border-width: 2px;
+}
+
+
+.Details {
+  margin-left: 10px;
+  margin-right: 7px;
+}
+
+
+.ctt-icn:hover {
+  color: #fff;
+  background-color: rgba(36, 196, 196, 1);
+}
+
+
+.ctt-info-icon {
+  font-size: 1.5rem;
+    background-color: #EFFBF9;
+  color: rgba(36, 196, 196, 1);
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+  margin-right: 1rem;
+    text-align: center;
+    padding: .8rem;
+  }
+
+.ctt-info-h4 {
+  font-size: 1.4rem;
+}
+
+.ctt-info-p {
+  font-size: .9rem;
+}
+
+.personal-details {
+  padding-bottom: 1rem;
+}
+
+.chk {
+  text-align: left;
+}
+
+
+
+/* ABOUT */
+
+.about, .skills, .testimonials {
+  margin-top: 5rem;
+}
+
+
+table {
+  text-align: left;
+}
+
+.about-text {
+  text-align: left;
+}
+
+.skills, .testimonials {
+  margin-top: 10rem;
+}
+
+
+
+.progress-bar {
+  background-color: rgba(36, 196, 196, 1);
+  text-align: left;
+}
+
+.progress-bars {
+  text-align: left;
+}
+
+.#carouselExampleDark {
+background-color: rgba(36, 196, 196, 1);
+}
+
+.d-block {
+  width: 12rem;
+  border-radius: 50%;
+  padding-bottom: 8rem;
+}
+
+
+
+
+
+
+/* CONTACT FORM */
+
+.form {
+    margin-left: 1rem;
+}
+
+
+.form-group {
+  padding-bottom: 1.5rem;
+}
+
+
+.form-group-name0mail {
+  width: 50%;
+  padding-bottom: 1.5rem;
+}
+
+.contact-btn {
+  color: #fff;
+  border-radius: 2rem;
+  background-color: rgba(36, 196, 196, 1);
+  margin: auto 13vw;
+}
+
+
+/* RESUME */
+
+
+.vl {
+  width: 1px;
+  white-space: nowrap;
+  border-style: solid;
+  border-color: rgba(12, 235, 235, 1);
+  border-width: 2px;
+}
+
+
+/* Footer */
+
+#footer {
+  background-color: rgb(248, 249, 250);
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.footer-img {
+  padding: 20px;
+}
+
+.foot_span {
+  color: rgba(36, 196, 196, 1);
+}
