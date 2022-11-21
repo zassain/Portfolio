@@ -229,7 +229,7 @@ background-color: rgba(36, 196, 196, 1);
 }
 
 .footer-text {
-  font-size: 1.45vw;
+  font-size: 120%;
 }
 
 .footer-text-chk {
@@ -242,7 +242,7 @@ background-color: rgba(36, 196, 196, 1);
 
 
 .footer-text-chk-em {
-  font-size: 1.3  em;
+  font-size: 1.3em;
 }
 
 .footer-img {
