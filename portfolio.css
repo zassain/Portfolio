@@ -19,6 +19,15 @@ p {
   color: rgb(116, 116, 116);
 }
 
+
+
+@media (max-width: 600px) {
+  p {
+    font-size: 2rem;
+  }
+}
+
+
 /* Navbar */
 
 .navbar {
