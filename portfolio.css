@@ -15,15 +15,13 @@ h1 {
 
 
 p {
-  font-size: 1rem;
+  font-size: 16px;
   color: rgb(116, 116, 116);
 }
 
-
-
 @media (max-width: 600px) {
   p {
-    font-size: 5rem;
+    font-size: 32px;
   }
 }
 
