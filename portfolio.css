@@ -229,3 +229,12 @@ color: white;
   white-space: nowrap;
   background: rgba(12, 235, 235, 1);
 }
+
+.dot {
+  margin-left: -6px;
+  height: 15px;
+  width: 15px;
+  background: rgba(12, 235, 235, 1);
+  border-radius: 50%;
+  display: block;
+}
