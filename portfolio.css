@@ -13,6 +13,11 @@ body {
     color: #444444;
 }
 
+hr {
+ border: 2px solid rgba(12, 235, 235, 1);
+  width: 5rem; 
+}
+
 
 /* Navbar */
 
@@ -72,13 +77,6 @@ color: white;
 
 .footer-img:hover, span:hover {
   color: rgba(36, 196, 196, 1);
-}
-
-hr {
-  width: 5%;
-  border-style: solid;
-  border-color: rgba(12, 235, 235, 1);
-  border-width: 2px;
 }
 
 
