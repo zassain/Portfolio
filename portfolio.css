@@ -199,9 +199,8 @@ color: white;
 /* RESUME */
 
 .vl {
-  width: 1px;
+  display: block;
+  width: 2px;
   white-space: nowrap;
-  border-style: solid;
-  border-color: rgba(12, 235, 235, 1);
-  border-width: 2px;
+  background: rgba(12, 235, 235, 1);
 }
