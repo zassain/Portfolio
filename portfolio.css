@@ -14,8 +14,11 @@ body {
 }
 
 hr {
- border: 2px solid rgba(12, 235, 235, 1);
-  width: 5rem; 
+display: block;
+    width: 5rem;
+    height: 3px;
+    background: rgba(12, 235, 235, 1);
+    border-top: 0;
 }
 
 
