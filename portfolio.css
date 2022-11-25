@@ -116,6 +116,12 @@ color: white;
   background-color: rgba(12, 235, 235, 0.15);
 }
 
+.jumbo-text {
+  text-align: center;
+  vertical-align: bottom;
+  padding-top: 15%;
+}
+
 
 
 /* ABOUT */
@@ -226,12 +232,6 @@ color: white;
 .contact-btn:hover {
   color: rgba(36, 196, 196, 1);
   background-color: white;
-}
-
-.jumbo-text {
-  text-align: center;
-  vertical-align: bottom;
-  padding-top: 15%;
 }
 
 
